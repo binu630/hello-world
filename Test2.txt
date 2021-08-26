@@ -1,0 +1,3 @@
+Hi, this is the second file I added to Git
+changed file content
+edited on Thu Aug 2021
